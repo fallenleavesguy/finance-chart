@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/gitpadtech/finance-chart.svg?branch=master)](https://travis-ci.org/gitpadtech/finance-chart)
 
+
 Awesome finance chart
 
 ## Install
